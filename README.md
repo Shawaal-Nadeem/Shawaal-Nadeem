@@ -102,16 +102,16 @@
 <div align="left">
  
   <a href="https://wa.me/+923096946556" target="_blank">
-  <img src="https://img.shields.io/static/vi?message-Whatsapp&logo-whatsapp&label=&color=25D366&logoColor=white&labelColor=&style-for-the-badge" height="35" alt="whatsapp logo" />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
   
   <a href="https://www.linkedin.com/in/shawaal-nadeem-a72972253/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message-LinkedIn&logo-linkedin&label=&color-007785&logoColor-white&labelColor=&style-for-the-badge" height="35" alt="linkedin logo" />
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007785&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   
   </a>
   <a href="mailto:shawaalnadeem63@gmail.com" target="_blank">
   <img
-src="https://img.shields.io/static/v1?message-Gmail&logo-gmail&label-&color-D14836&logoColor-white&labelColor=&style-for-the-badge" height="35" alt="gmail logo" />
+src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
 
