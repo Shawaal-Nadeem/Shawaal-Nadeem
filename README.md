@@ -39,10 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </a>
 <img width="12" />
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</a>
-<img width="12" />
 <a href="https://isocpp.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
 </a>
@@ -86,6 +82,10 @@
 <a href="https://tailwindcss.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
 </a>
+    <img width="12" />
+    <a href="https://www.linux.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+    </a>
 <img width="12" />
 <a href="https://ubuntu.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo" />
@@ -94,6 +94,11 @@
 <a href="https://www.docker.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </a>
+  <img width="12" />
+<a href="https://azure.microsoft.com" target="_blank">
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
+    </a>
 
 </div>
 
