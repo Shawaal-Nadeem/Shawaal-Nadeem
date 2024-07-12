@@ -95,6 +95,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </a>
   <img width="12" />
+  <a href="https://kafka.apache.org" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka logo" />
+</a>
+
+  <img width="12" />
 <a href="https://azure.microsoft.com" target="_blank">
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
