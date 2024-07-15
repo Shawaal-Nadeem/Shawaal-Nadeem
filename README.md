@@ -15,12 +15,13 @@
 ###
 
 <div align="left">
-<a href="https://www.javascript.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-</a>
+
 <img width="12" />
 <a href="https://www.typescriptlang.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </a>
 <img width="12" />
 <a href="https://reactjs.org/">
